@@ -63,3 +63,7 @@ Sphereface m=1.35
 # 其它
 
 目前在 cifar10 收敛上还有一些问题，可能模型某些设置不对
+
+# 参考
+
+[ArcFace: Additive Angular Margin Loss for Deep Face Recognition](https://arxiv.org/abs/1801.07698)
