@@ -5,6 +5,7 @@ conda create -n arcface
 conda install tensorflow-gpu=2.1 // tensorflow-gpu 2.0 版本的 model.evaluate() 函数有问题
 conda install matplotlib
 ```
+另外需要安装 [ImageMagick](https://imagemagick.org/script/download.php)
 
 # 运行
 
